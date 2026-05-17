@@ -21,6 +21,7 @@
     "jsqr": "^1.4.0",
     "lucide-react": "^0.460.0",
     "plasmo": "0.90.5",
+    "qrcode-generator": "^2.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-merge": "^2.5.4",
@@ -52,7 +53,9 @@
         "id": "kaikey@engineer-hama",
         "strict_min_version": "128.0",
         "data_collection_permissions": {
-          "required": ["none"]
+          "required": [
+            "none"
+          ]
         }
       }
     }
